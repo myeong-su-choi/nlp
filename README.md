@@ -16,4 +16,4 @@
 
 ---
 
-- 딥러닝으로 Seq2Seq 계산기 만들기 <font color='green'>✓</font>(https://colab.research.google.com/drive/1X1yR8y2Og-aQSICHF_ijrSohEk49aTKl?usp=sharing)
+- 딥러닝으로 Seq2Seq 계산기 만들기 <font color='green'>asdads</font>(https://colab.research.google.com/drive/1X1yR8y2Og-aQSICHF_ijrSohEk49aTKl?usp=sharing)
