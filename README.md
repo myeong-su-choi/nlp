@@ -22,5 +22,5 @@
 
 - Seq2Seq의 Encoder로 뉴스기사 토픽 예측하기 [✓](https://colab.research.google.com/drive/1bm5p-uUbXH1vKGGQe7Aj66D_c5cqrU5a?usp=sharing)
 
-    > Seq2Seq [♾️](https://www.notion.so/Seq2Seq-24447a380dc880dfb4f1f586268b6678?source=copy_link)
+    > Seq2Seq [♾️](https://www.notion.so/Seq2Seq-24447a380dc880dfb4f1f586268b6678?source=copy_link)  
     > Seq2Seq + Attention [♾️](https://www.notion.so/Seq2Seq-Attention-24447a380dc880bd9695fbb704abb7dc?source=copy_link)
