@@ -8,6 +8,8 @@
 
 - Word2Vec, FastText [✓](https://colab.research.google.com/drive/1RRtCgmm6Dx2rpBKQmseZgtqlGLk0_EH0?usp=sharing)
 
+    > Word2Vec [♾️](https://www.notion.so/Word2Vec-24447a380dc88090b2ebe0af8f1b7a7f?source=copy_link)
+
 - 한국어 금융 뉴스 긍정, 부정 분류 [✓](https://colab.research.google.com/drive/1rMfHgLnBZzEZCC28Khp2LOgjdlkEulY5?usp=drive_link)
 
 - KorNLI 다중 클래스 분류 [✓](https://colab.research.google.com/drive/1UQwI2E5r5wxj19NjftZadVqCyUKZeR-I?usp=sharing)
