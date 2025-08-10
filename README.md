@@ -24,5 +24,7 @@
 
 - Seq2Seq로 네이버 영화 긍부정 평가하기 [✓](https://colab.research.google.com/drive/1gkLrfcXZLOEM4xpImeY-MM8MdG807wl6?usp=sharing)
 
+- Seq2Seq 모델을 활용한 챗봇 만들기 [✓](https://colab.research.google.com/drive/1Ax4Jj0y1_6vtNbgSyYfjezm3LrmcscjM?usp=sharing)
+
     > Seq2Seq [♾️](https://www.notion.so/Seq2Seq-24447a380dc880dfb4f1f586268b6678?source=copy_link)  
     > Seq2Seq + Attention [♾️](https://www.notion.so/Seq2Seq-Attention-24447a380dc880bd9695fbb704abb7dc?source=copy_link)
