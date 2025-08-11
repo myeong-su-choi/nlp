@@ -6,6 +6,8 @@
 
 - TF-IDF + MLP [✓](https://colab.research.google.com/drive/1tAyHUV_Hbh9tkkcq0BLYE00hQLM00OSr?usp=sharing)
 
+    > TF-IDF [♾️](https://www.notion.so/TF-IDF-Term-Frequency-Inverse-Document-Frequency-24c47a380dc880fbb697c54a18782494?source=copy_link)
+
 - Word2Vec, FastText [✓](https://colab.research.google.com/drive/1RRtCgmm6Dx2rpBKQmseZgtqlGLk0_EH0?usp=sharing)
 
     > Word2Vec [♾️](https://www.notion.so/Word2Vec-24447a380dc88090b2ebe0af8f1b7a7f?source=copy_link)
