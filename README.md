@@ -28,5 +28,5 @@
 
 - Seq2Seq 모델을 활용한 챗봇 만들기 [✓](https://colab.research.google.com/drive/1Ax4Jj0y1_6vtNbgSyYfjezm3LrmcscjM?usp=sharing)
 
-    > Seq2Seq [♾️](https://www.notion.so/Seq2Seq-24447a380dc880dfb4f1f586268b6678?source=copy_link)  
-    > Seq2Seq + Attention [♾️](https://www.notion.so/Seq2Seq-Attention-24447a380dc880bd9695fbb704abb7dc?source=copy_link)
+    > Seq2Seq [![YouTube](https://img.shields.io/badge/-YouTube-red?logo=YouTube&logoColor=white&style=flat)](https://www.youtube.com/watch?v=qwfLTwesx6k&t=220s)  
+    > Seq2Seq + Attention [![YouTube](https://img.shields.io/badge/-YouTube-red?logo=YouTube&logoColor=white&style=flat)](https://www.youtube.com/watch?v=cu8ysaaNAh0)
