@@ -1,16 +1,16 @@
 ### Natural Language Processing, NLP
 
-- 토큰화 [✓](https://colab.research.google.com/drive/1tjWCtpym-TqQuBN43p_uxOCzu2WY9lgo?usp=sharing)
+- 토큰화 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tjWCtpym-TqQuBN43p_uxOCzu2WY9lgo?usp=sharing)
 
 - TF-IDF 행렬 구현 [✓](https://colab.research.google.com/drive/1U0VvJQnDF0ntUzwCJF3enlmH02oo5b1U?usp=sharing)
 
 - TF-IDF + MLP [✓](https://colab.research.google.com/drive/1tAyHUV_Hbh9tkkcq0BLYE00hQLM00OSr?usp=sharing)
 
-    > TF-IDF [♾️](https://www.notion.so/TF-IDF-Term-Frequency-Inverse-Document-Frequency-24c47a380dc880fbb697c54a18782494?source=copy_link)
+    > TF-IDF [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=white)](https://www.notion.so/TF-IDF-Term-Frequency-Inverse-Document-Frequency-24c47a380dc880fbb697c54a18782494?source=copy_link)
 
 - Word2Vec, FastText [✓](https://colab.research.google.com/drive/1RRtCgmm6Dx2rpBKQmseZgtqlGLk0_EH0?usp=sharing)
 
-    > Word2Vec [♾️](https://www.notion.so/Word2Vec-24447a380dc88090b2ebe0af8f1b7a7f?source=copy_link)
+    > Word2Vec [![YouTube](https://img.shields.io/badge/-YouTube-red?logo=YouTube&logoColor=white&style=flat)](https://www.youtube.com/watch?v=pC6P-rBrwms)
 
 - 한국어 금융 뉴스 긍정, 부정 분류 [✓](https://colab.research.google.com/drive/1rMfHgLnBZzEZCC28Khp2LOgjdlkEulY5?usp=drive_link)
 
