@@ -8,7 +8,7 @@
 
     > TF-IDF [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=white)](https://www.notion.so/TF-IDF-Term-Frequency-Inverse-Document-Frequency-24c47a380dc880fbb697c54a18782494?source=copy_link)
 
-- Word2Vec, FastText [✓](https://colab.research.google.com/drive/1RRtCgmm6Dx2rpBKQmseZgtqlGLk0_EH0?usp=sharing)
+- Word2Vec, FastText [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RRtCgmm6Dx2rpBKQmseZgtqlGLk0_EH0?usp=sharing)
 
     > Word2Vec [![YouTube](https://img.shields.io/badge/-YouTube-red?logo=YouTube&logoColor=white&style=flat)](https://www.youtube.com/watch?v=pC6P-rBrwms)
 
