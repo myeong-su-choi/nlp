@@ -2,9 +2,9 @@
 
 - 토큰화 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tjWCtpym-TqQuBN43p_uxOCzu2WY9lgo?usp=sharing)
 
-- TF-IDF 행렬 구현 [✓](https://colab.research.google.com/drive/1U0VvJQnDF0ntUzwCJF3enlmH02oo5b1U?usp=sharing)
+- TF-IDF 행렬 구현 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1U0VvJQnDF0ntUzwCJF3enlmH02oo5b1U?usp=sharing)
 
-- TF-IDF + MLP [✓](https://colab.research.google.com/drive/1tAyHUV_Hbh9tkkcq0BLYE00hQLM00OSr?usp=sharing)
+- TF-IDF + MLP [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tAyHUV_Hbh9tkkcq0BLYE00hQLM00OSr?usp=sharing)
 
     > TF-IDF [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=white)](https://www.notion.so/TF-IDF-Term-Frequency-Inverse-Document-Frequency-24c47a380dc880fbb697c54a18782494?source=copy_link)
 
