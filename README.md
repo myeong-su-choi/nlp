@@ -26,13 +26,13 @@
 
 ---
 
-- 딥러닝으로 Seq2Seq 계산기 만들기 [✓](https://colab.research.google.com/drive/1X1yR8y2Og-aQSICHF_ijrSohEk49aTKl?usp=sharing)
+- 딥러닝으로 Seq2Seq 계산기 만들기 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1X1yR8y2Og-aQSICHF_ijrSohEk49aTKl?usp=sharing)
 
-- Seq2Seq의 Encoder로 뉴스기사 토픽 예측하기 [✓](https://colab.research.google.com/drive/1bm5p-uUbXH1vKGGQe7Aj66D_c5cqrU5a?usp=sharing)
+- Seq2Seq의 Encoder로 뉴스기사 토픽 예측하기 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bm5p-uUbXH1vKGGQe7Aj66D_c5cqrU5a?usp=sharing)
 
-- Seq2Seq로 네이버 영화 긍부정 평가하기 [✓](https://colab.research.google.com/drive/1gkLrfcXZLOEM4xpImeY-MM8MdG807wl6?usp=sharing)
+- Seq2Seq로 네이버 영화 긍부정 평가하기 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gkLrfcXZLOEM4xpImeY-MM8MdG807wl6?usp=sharing)
 
-- Seq2Seq 모델을 활용한 챗봇 만들기 [✓](https://colab.research.google.com/drive/1Ax4Jj0y1_6vtNbgSyYfjezm3LrmcscjM?usp=sharing)
+- Seq2Seq 모델을 활용한 챗봇 만들기 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ax4Jj0y1_6vtNbgSyYfjezm3LrmcscjM?usp=sharing)
 
     > Seq2Seq [![YouTube](https://img.shields.io/badge/-YouTube-red?logo=YouTube&logoColor=white&style=flat)](https://www.youtube.com/watch?v=qwfLTwesx6k&t=220s)  
     > Seq2Seq + Attention [![YouTube](https://img.shields.io/badge/-YouTube-red?logo=YouTube&logoColor=white&style=flat)](https://www.youtube.com/watch?v=cu8ysaaNAh0)
