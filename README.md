@@ -36,3 +36,9 @@
 
     > Seq2Seq [![YouTube](https://img.shields.io/badge/-YouTube-red?logo=YouTube&logoColor=white&style=flat)](https://www.youtube.com/watch?v=qwfLTwesx6k&t=220s)  
     > Seq2Seq + Attention [![YouTube](https://img.shields.io/badge/-YouTube-red?logo=YouTube&logoColor=white&style=flat)](https://www.youtube.com/watch?v=cu8ysaaNAh0)
+
+---
+
+- 트랜스포머로 챗봇 만들기 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SiKgvjQmZlW4cZrLoNIhyROnpfvJaaCJ?usp=sharing)
+
+    > 트랜스포머 [![YouTube](https://img.shields.io/badge/-YouTube-red?logo=YouTube&logoColor=white&style=flat)](https://www.youtube.com/watch?v=p216tTVxues&t=1063s)
